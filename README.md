@@ -6,7 +6,7 @@ touch bar tool for crypto currency price (Bitcoin, Ethereum, and Litecoin)
 ## Dependencies
 - Install BetterTouchBarTool - https://www.boastr.net/downloads/
 - Install jq  - brew install jq
-- Download - touchbar_crypto.json
+- Download - touchbar_crypto.json https://github.com/jimmyadg/crypto_touchbar/blob/master/touchbar_crypto.json
 
 ## Install
 Launch BetterTouchBarTool and go to Preferences, click Manage Presets ,and simply import touchbar_crypto.json into BetterTouchBarTool. Enjoy!

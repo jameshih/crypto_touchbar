@@ -12,7 +12,7 @@ A touch bar widget for crypto currency price (Bitcoin, Ethereum, and Litecoin)
 - Download - touchbar_crypto.json https://github.com/jimmyadg/crypto_touchbar/blob/master/touchbar_crypto.json
 
 ## Installation
-Launch BetterTouchBarTool and go to Preferences, click Manage Presets ,and simply import touchbar_crypto.json into BetterTouchBarTool. Enjoy!
+Launch BetterTouchBarTool and go to Preferences, click Manage Presets ,and import touchbar_crypto.json into BetterTouchBarTool. Enjoy!
 
 ## Configuration
 Bitcoin and Ethereum prices are both from Gemini exchange, and Litcoin price is from Bitstamp exchange.

@@ -8,7 +8,8 @@ A touch bar widget for crypto currency price (Bitcoin, Ethereum, and Litecoin)
 
 ## Dependencies
 - Install BetterTouchBarTool - https://www.boastr.net/downloads/
-- Install jq  - brew install jq
+- Install Homebrew - https://brew.sh/
+- Install jq  - open terminal and type <code>brew install jq</code>
 - Download - touchbar_crypto.json https://github.com/jimmyadg/crypto_touchbar/blob/master/touchbar_crypto.json
 
 ## Installation

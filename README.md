@@ -23,6 +23,10 @@ I am using the web API by cryptocompare.com, which you can easily point the widg
 
 https://min-api.cryptocompare.com/data/price?fsym=COIN&tsyms=USD&e=EXCHANGE
 
+ex: https://min-api.cryptocompare.com/data/price?fsym=LTC&tsyms=USD&e=GDAX
+
+For more information on the API please visit https://www.cryptocompare.com/api/#-api-data-price-
+
 ## Integrating Other Coins
 Adding price ticker for other coin is easy
 <br>

@@ -26,7 +26,7 @@ Adding price ticker for other coin is easy
 Simply click the +Widget button in BetterTouchBarTool's Preferences and assign the widget to "Run Apple Script and Show Return Value"
 <br>
 <br>
-If you are unfamiliar with Apple Script, you can copy and paste the template code below and follow the configuration section to assign the widge to your desire coin.
+If you are unfamiliar with Apple Script, you can copy and paste the template code below and follow the configuration section to assign the widge to your desired coin.
 
 <code>
 set p to do shell script "curl 'https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD&e=Gemini' | /usr/local/bin/jq .USD"

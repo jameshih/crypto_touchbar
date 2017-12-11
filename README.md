@@ -1,7 +1,7 @@
 # New Macbook Touchbar Crypto Price Ticker
 touch bar tool for crypto currency price (Bitcoin, Ethereum, and Litecoin)
 
-
+width: 50%;
 ## Dependencies
 - Install BetterTouchBarTool - https://www.boastr.net/downloads/
 - Install jq  - brew install jq

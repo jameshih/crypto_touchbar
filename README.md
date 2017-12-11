@@ -1,7 +1,7 @@
 # Macbook Touchbar Crypto Price Ticker
 touch bar tool for crypto currency price (Bitcoin, Ethereum, and Litecoin)
 <p align="center">
-![](https://github.com/jimmyadg/crypto_touchbar/blob/master/banner.JPG | width=400)
+<img src="https://github.com/jimmyadg/crypto_touchbar/blob/master/banner.JPG" width="400"/>
 </p>
 
 ## Dependencies
